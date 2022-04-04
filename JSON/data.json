@@ -1,0 +1,49 @@
+[
+    {
+        "title" : "Phone",
+        "productNo" : "1",
+        "price" : "1000",
+        "img_url" : "https://raw.githubusercontent.com/uUMUTt/JSON-TechnoMarketProducts/main/images/iphone.png"
+    },
+    {
+        "title" : "Mother Board",
+        "productNo" : "2",
+        "price" : "800",
+        "img_url" : "https://raw.githubusercontent.com/uUMUTt/JSON-TechnoMarketProducts/main/images/motherboard.png"
+    },{
+        "title" : "Nintendo",
+        "productNo" : "3",
+        "price" : "600",
+        "img_url" : "https://raw.githubusercontent.com/uUMUTt/JSON-TechnoMarketProducts/main/images/nintendo.png"
+    },
+    {
+        "title" : "Notebook",
+        "productNo" : "4",
+        "price" : "900",
+        "img_url" : "https://raw.githubusercontent.com/uUMUTt/JSON-TechnoMarketProducts/main/images/notebook.png"
+    },
+    {
+        "title" : "Ram",
+        "productNo" : "5",
+        "price" : "250",
+        "img_url" : "https://raw.githubusercontent.com/uUMUTt/JSON-TechnoMarketProducts/main/images/ram.png"
+    },
+    {
+        "title" : "Smart Watch",
+        "productNo" : "6",
+        "price" : "740",
+        "img_url" : "https://raw.githubusercontent.com/uUMUTt/JSON-TechnoMarketProducts/main/images/smart_watch.png"
+    },
+    {
+        "title" : "Television",
+        "productNo" : "7",
+        "price" : "1200",
+        "img_url" : "https://raw.githubusercontent.com/uUMUTt/JSON-TechnoMarketProducts/main/images/tv.png"
+    },
+    {
+        "title" : "Xbox",
+        "productNo" : "8",
+        "price" : "1350",
+        "img_url" : "https://raw.githubusercontent.com/uUMUTt/JSON-TechnoMarketProducts/main/images/xbox.png"
+    }    
+]
